@@ -9,5 +9,15 @@
     "description": "Personal Claude Code plugin marketplace",
     "version": "0.1.0"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "time-aware",
+      "source": {
+        "source": "github",
+        "repo": "jrosiek/claude-time-aware",
+        "ref": "v0.1.0"
+      },
+      "description": "Timestamps every user prompt so Claude can track elapsed time and make time-aware decisions"
+    }
+  ]
 }
