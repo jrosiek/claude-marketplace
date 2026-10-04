@@ -9,7 +9,7 @@ referenced from [`.claude-plugin/marketplace.json`](.claude-plugin/marketplace.j
 
 | Plugin | Version | Description |
 | --- | --- | --- |
-| [time-aware](https://github.com/jrosiek/claude-time-aware) | v0.1.0 | Timestamps every user prompt so Claude can track elapsed time and make time-aware decisions |
+| [time-aware](https://github.com/jrosiek/claude-time-aware) | v0.2.0 | Timestamps every user prompt so Claude can track elapsed time and make time-aware decisions |
 
 ## Install
 

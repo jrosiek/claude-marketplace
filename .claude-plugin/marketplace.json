@@ -15,7 +15,7 @@
       "source": {
         "source": "github",
         "repo": "jrosiek/claude-time-aware",
-        "ref": "v0.1.0"
+        "ref": "v0.2.0"
       },
       "description": "Timestamps every user prompt so Claude can track elapsed time and make time-aware decisions"
     }
