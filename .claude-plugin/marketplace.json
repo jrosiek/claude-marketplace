@@ -1,0 +1,13 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "jrosiek-marketplace",
+  "owner": {
+    "name": "Jarosław Rosiek",
+    "email": "jaroslaw.rosiek@gmail.com"
+  },
+  "metadata": {
+    "description": "Personal Claude Code plugin marketplace",
+    "version": "0.1.0"
+  },
+  "plugins": []
+}
